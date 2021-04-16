@@ -5,3 +5,5 @@ Kang-wook Kim, Seung-won Park, Myun-chul Joe @ [MINDsLab Inc.](https://mindslab.
 
 Paper: arXiv: https://arxiv.org/abs/2104.00931 (Submitted to INTERSPEECH 2021)<br>
 Audio Samples: https://mindslab-ai.github.io/assem-vc/<br>
+
+**Update: Code will available soon!**
