@@ -7,3 +7,4 @@ Paper: arXiv: https://arxiv.org/abs/2104.00931 (Submitted to INTERSPEECH 2021)<b
 Audio Samples: https://mindslab-ai.github.io/assem-vc/<br>
 
 **Update: Code will available soon!**
+(Due to the first author's mandatory military training, we are planning to open code at *June*)
